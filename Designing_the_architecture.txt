@@ -1,0 +1,13 @@
+While designing the architecture, it is important to consider the following questions.
+
+How did I preprocess my data? How will that affect the model?
+How to choose the optimizer? Evaluate its pros and cons.
+Overfitting and Underfitting:
+if overfitting, adding dropout or max pooling can help. You can report can describe how dropout or max pooling improved the model.
+if underfitting, you can report how adding more convolution or fully connected layers helped.
+How to decide the number and type of layers?
+How to tune the hyperparameters? Sound knowledge of Linear Algebra, Probability & Statistics and Multivariate Calculus can help you a lot in narrowing down your choices.
+How to train and evaluate the model? What is the metric? How do I set the benchmark?
+
+http://ruder.io/optimizing-gradient-descent/index.html#adam
+
